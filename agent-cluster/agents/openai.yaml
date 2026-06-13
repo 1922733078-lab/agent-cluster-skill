@@ -1,4 +1,4 @@
 interface:
   display_name: "agent集群"
-  short_description: "Coordinate dependency-aware agents"
-  default_prompt: "Use $agent-cluster to coordinate a dependency-aware iterative agent team for this complex task, continue branches as soon as required results return, and integrate the final outcome."
+  short_description: "Delegate via dynamic agent teams"
+  default_prompt: "Use $agent-cluster to act as an orchestrator-only main agent: delegate substantive work to dynamically spawned subagents, route follow-ups by dependency, and synthesize the final outcome."
